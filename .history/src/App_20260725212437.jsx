@@ -23,8 +23,7 @@ import Addresses from "./pages/account/Addresses";
 
 export default function App() {
   return (
-    <AuthProvider>
-      <h1>Hello Brother</h1>
+    <AuthProvide
       <WishlistProvider>
         <CartProvider>
           <BrowserRouter>
