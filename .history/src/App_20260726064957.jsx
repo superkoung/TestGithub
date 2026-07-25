@@ -24,7 +24,7 @@ import Addresses from "./pages/account/Addresses";
 export default function App() {
   return (
     <AuthProvider>
-      <h1>Hello new code</h1>
+      <h1>Hello </h1>
       <WishlistProvider>
         <CartProvider>
           <BrowserRouter>
